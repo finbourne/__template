@@ -30,7 +30,3 @@ If you have a change that you would like to contribute, please find or open an i
 ## Code review process
 
 The Core Team reviews pull requests on a regular basis and will give feedback on the corresponding issue in the repo. After feedback has been given it is expected that you respond within two weeks, the pull request may be closed if it does not show any signs of activity. An automated build will run as part of your pull request, at a minimum this needs to be passing before your contribution is accepted. 
-
-# Getting in touch
-
-Please don't use the issue tracker for support questions, for help on using LUSID please contact support@lusid.com

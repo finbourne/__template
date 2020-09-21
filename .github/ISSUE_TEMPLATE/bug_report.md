@@ -14,8 +14,8 @@ assignees: ''
 - [ ] I have read the [LUISD contribution guidelines](https://github.com/finbourne/${REPO_NAME}/blob/master/docs/CONTRIBUTING.md)
 - [ ] I have read the [LUSID Code of Conduct](https://github.com/finbourne/${REPO_NAME}/blob/master/docs/CODE_OF_CONDUCT.md)
 
-**Version**
-The version you are using that has the bug. 
+**Version & Platform**
+The version you are using that has the bug and what platform you are using e.g. Windows/Linux/macOS. 
 
 **IMPORTANT: DO NOT POST ANY SENSITIVE DATA E.G. PASSWORDS**
 

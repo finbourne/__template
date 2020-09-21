@@ -16,8 +16,8 @@ If you encounter any issues please report these the Github [issues page](https:/
 # TODOs
 
 - [ ] update repo name in template
-- [ ] set up automated build
-- [ ] set up Sonar build
+- [ ] set up [GitHub Actions](https://docs.github.com/en/actions) automated build
+- [ ] set up [SonarCloud](https://sonarcloud.io/organizations/finbourne/projects) build
 - [ ] add quickstart install documentation to the README
 - [ ] add setup/install documentation to the Wiki
 
@@ -30,8 +30,8 @@ Update the `${REPO_NAME}` to the repo name in the following:
 ## Add badges
 * version
 * build status
-* GitHub actions
-* Sonar build
+* GitHub Actions
+* SonarCloud build
 
 e.g.
 
